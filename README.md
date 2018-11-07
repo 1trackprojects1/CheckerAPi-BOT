@@ -2,6 +2,8 @@
 >A checker bot for discord that checks Netflix & Spotify accounts.
 Note: The Netflix Checker is not working right now. I'll have to fix it.
 
+![Interface](https://image.ibb.co/jYizLA/Screenshot-2018-11-07-at-1-28-32-PM.png)
+
 ## Interface & ToolPlay
 This is a CLI output of the program.
 ```
